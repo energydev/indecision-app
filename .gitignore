@@ -1,0 +1,6 @@
+node_modules/
+public/dist/
+.vscode
+yarn-error.log
+public/bundle.js
+public/bundle.js.map
